@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Concat2Strings\Concat2Strings\bin\Debug\net8.0-windows\Concat2Strings.exe
+C:\Users\Lenovo\source\repos\Concat2Strings\Concat2Strings\bin\Debug\net8.0-windows\Concat2Strings.deps.json
+C:\Users\Lenovo\source\repos\Concat2Strings\Concat2Strings\bin\Debug\net8.0-windows\Concat2Strings.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Concat2Strings\Concat2Strings\bin\Debug\net8.0-windows\Concat2Strings.dll
+C:\Users\Lenovo\source\repos\Concat2Strings\Concat2Strings\bin\Debug\net8.0-windows\Concat2Strings.pdb
+C:\Users\Lenovo\source\repos\Concat2Strings\Concat2Strings\obj\Debug\net8.0-windows\Concat2Strings.Form1.resources
+C:\Users\Lenovo\source\repos\Concat2Strings\Concat2Strings\obj\Debug\net8.0-windows\Concat2Strings.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Concat2Strings\Concat2Strings\obj\Debug\net8.0-windows\Concat2Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Concat2Strings\Concat2Strings\obj\Debug\net8.0-windows\Concat2Strings.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Concat2Strings\Concat2Strings\obj\Debug\net8.0-windows\Concat2Strings.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\Concat2Strings\Concat2Strings\obj\Debug\net8.0-windows\Concat2Strings.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Concat2Strings\Concat2Strings\obj\Debug\net8.0-windows\Concat2Strings.dll
+C:\Users\Lenovo\source\repos\Concat2Strings\Concat2Strings\obj\Debug\net8.0-windows\refint\Concat2Strings.dll
+C:\Users\Lenovo\source\repos\Concat2Strings\Concat2Strings\obj\Debug\net8.0-windows\Concat2Strings.pdb
+C:\Users\Lenovo\source\repos\Concat2Strings\Concat2Strings\obj\Debug\net8.0-windows\Concat2Strings.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Concat2Strings\Concat2Strings\obj\Debug\net8.0-windows\ref\Concat2Strings.dll
